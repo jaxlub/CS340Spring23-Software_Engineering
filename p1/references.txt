@@ -1,0 +1,6 @@
+Sources for project 1
+looking at bash "else" syntax: https://linuxhandbook.com/if-else-bash/
+looking at file compare options: https://unix.stackexchange.com/questions/397655/two-files-comparison-in-bash-script
+looking at how to import files from local to ssh: https://linuxhandbook.com/transfer-files-ssh/
+Looking at how to timeout program https://www.baeldung.com/linux/bash-timeouts
+Type -f was used via advice from Kevin 

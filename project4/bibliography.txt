@@ -1,0 +1,20 @@
+Project 4A Citations:
+Cleaner way to split array instead of for-loop - https://stackoverflow.com/questions/752308/split-list-into-smaller-lists-split-in-half
+
+casting ints in python source - https://www.geeksforgeeks.org/convert-string-to-integer-in-python/
+
+python init array source: https://stackoverflow.com/questions/64584433/how-to-solve-the-error-list-assignment-index-out-of-range-in-python
+
+Looking at OS vs subprocess - https://www.section.io/engineering-education/how-to-execute-linux-commands-in-python/
+https://pythongeeks.org/subprocess-in-python/
+#https://www.geeksforgeeks.org/how-to-run-bash-script-in-python/
+
+Patch sources:
+https://www.howtogeek.com/415442/how-to-apply-a-patch-to-a-file-and-create-patches-in-linux/
+
+Project 4 specs
+
+4C sources:
+https://stackoverflow.com/questions/19327556/get-specific-line-from-text-file-using-just-shell-script
+https://stackoverflow.com/questions/18668556/how-can-i-compare-numbers-in-bash
+https://www.baeldung.com/linux/silencing-bash-output
